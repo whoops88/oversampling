@@ -1,7 +1,7 @@
 Tutorial about Overampling in python
 ===========================================
 
-In this tutorial I use python and the libraries
+In this tutorial I used python libraries
 * scikit-learn
 * scikit-imblearn
 * matplotlib
